@@ -1,0 +1,16 @@
+D:\balta\Desenvolvimento\bin\Debug\net5.0\Desenvolvimento.exe
+D:\balta\Desenvolvimento\bin\Debug\net5.0\Desenvolvimento.deps.json
+D:\balta\Desenvolvimento\bin\Debug\net5.0\Desenvolvimento.runtimeconfig.json
+D:\balta\Desenvolvimento\bin\Debug\net5.0\Desenvolvimento.runtimeconfig.dev.json
+D:\balta\Desenvolvimento\bin\Debug\net5.0\Desenvolvimento.dll
+D:\balta\Desenvolvimento\bin\Debug\net5.0\ref\Desenvolvimento.dll
+D:\balta\Desenvolvimento\bin\Debug\net5.0\Desenvolvimento.pdb
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.csprojAssemblyReference.cache
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.AssemblyInfoInputs.cache
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.AssemblyInfo.cs
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.csproj.CoreCompileInputs.cache
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.dll
+D:\balta\Desenvolvimento\obj\Debug\net5.0\ref\Desenvolvimento.dll
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.pdb
+D:\balta\Desenvolvimento\obj\Debug\net5.0\Desenvolvimento.genruntimeconfig.cache

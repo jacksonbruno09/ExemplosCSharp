@@ -1,0 +1,16 @@
+D:\balta\StrtructPratica\bin\Debug\net5.0\StrtructPratica.exe
+D:\balta\StrtructPratica\bin\Debug\net5.0\StrtructPratica.deps.json
+D:\balta\StrtructPratica\bin\Debug\net5.0\StrtructPratica.runtimeconfig.json
+D:\balta\StrtructPratica\bin\Debug\net5.0\StrtructPratica.runtimeconfig.dev.json
+D:\balta\StrtructPratica\bin\Debug\net5.0\StrtructPratica.dll
+D:\balta\StrtructPratica\bin\Debug\net5.0\ref\StrtructPratica.dll
+D:\balta\StrtructPratica\bin\Debug\net5.0\StrtructPratica.pdb
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.csprojAssemblyReference.cache
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.AssemblyInfoInputs.cache
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.AssemblyInfo.cs
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.csproj.CoreCompileInputs.cache
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.dll
+D:\balta\StrtructPratica\obj\Debug\net5.0\ref\StrtructPratica.dll
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.pdb
+D:\balta\StrtructPratica\obj\Debug\net5.0\StrtructPratica.genruntimeconfig.cache

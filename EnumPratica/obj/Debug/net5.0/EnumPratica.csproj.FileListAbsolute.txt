@@ -1,0 +1,16 @@
+D:\balta\EnumPratica\bin\Debug\net5.0\EnumPratica.exe
+D:\balta\EnumPratica\bin\Debug\net5.0\EnumPratica.deps.json
+D:\balta\EnumPratica\bin\Debug\net5.0\EnumPratica.runtimeconfig.json
+D:\balta\EnumPratica\bin\Debug\net5.0\EnumPratica.runtimeconfig.dev.json
+D:\balta\EnumPratica\bin\Debug\net5.0\EnumPratica.dll
+D:\balta\EnumPratica\bin\Debug\net5.0\ref\EnumPratica.dll
+D:\balta\EnumPratica\bin\Debug\net5.0\EnumPratica.pdb
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.csprojAssemblyReference.cache
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.AssemblyInfoInputs.cache
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.AssemblyInfo.cs
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.csproj.CoreCompileInputs.cache
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.dll
+D:\balta\EnumPratica\obj\Debug\net5.0\ref\EnumPratica.dll
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.pdb
+D:\balta\EnumPratica\obj\Debug\net5.0\EnumPratica.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\balta\ArrayOperations\bin\Debug\net5.0\ArrayOperations.exe
+D:\balta\ArrayOperations\bin\Debug\net5.0\ArrayOperations.deps.json
+D:\balta\ArrayOperations\bin\Debug\net5.0\ArrayOperations.runtimeconfig.json
+D:\balta\ArrayOperations\bin\Debug\net5.0\ArrayOperations.runtimeconfig.dev.json
+D:\balta\ArrayOperations\bin\Debug\net5.0\ArrayOperations.dll
+D:\balta\ArrayOperations\bin\Debug\net5.0\ref\ArrayOperations.dll
+D:\balta\ArrayOperations\bin\Debug\net5.0\ArrayOperations.pdb
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.csprojAssemblyReference.cache
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.AssemblyInfoInputs.cache
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.AssemblyInfo.cs
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.csproj.CoreCompileInputs.cache
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.dll
+D:\balta\ArrayOperations\obj\Debug\net5.0\ref\ArrayOperations.dll
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.pdb
+D:\balta\ArrayOperations\obj\Debug\net5.0\ArrayOperations.genruntimeconfig.cache

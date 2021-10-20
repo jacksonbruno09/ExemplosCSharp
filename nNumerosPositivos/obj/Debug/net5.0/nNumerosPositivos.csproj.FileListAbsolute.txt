@@ -1,0 +1,16 @@
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\nNumerosPositivos.exe
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\nNumerosPositivos.deps.json
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\nNumerosPositivos.runtimeconfig.json
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\nNumerosPositivos.runtimeconfig.dev.json
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\nNumerosPositivos.dll
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\ref\nNumerosPositivos.dll
+D:\balta\nNumerosPositivos\bin\Debug\net5.0\nNumerosPositivos.pdb
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.csprojAssemblyReference.cache
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.AssemblyInfoInputs.cache
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.AssemblyInfo.cs
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.csproj.CoreCompileInputs.cache
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.dll
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\ref\nNumerosPositivos.dll
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.pdb
+D:\balta\nNumerosPositivos\obj\Debug\net5.0\nNumerosPositivos.genruntimeconfig.cache

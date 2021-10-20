@@ -1,0 +1,16 @@
+D:\balta\StringsOperations\bin\Debug\net5.0\StringsOperations.exe
+D:\balta\StringsOperations\bin\Debug\net5.0\StringsOperations.deps.json
+D:\balta\StringsOperations\bin\Debug\net5.0\StringsOperations.runtimeconfig.json
+D:\balta\StringsOperations\bin\Debug\net5.0\StringsOperations.runtimeconfig.dev.json
+D:\balta\StringsOperations\bin\Debug\net5.0\StringsOperations.dll
+D:\balta\StringsOperations\bin\Debug\net5.0\ref\StringsOperations.dll
+D:\balta\StringsOperations\bin\Debug\net5.0\StringsOperations.pdb
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.csprojAssemblyReference.cache
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.AssemblyInfoInputs.cache
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.AssemblyInfo.cs
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.csproj.CoreCompileInputs.cache
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.dll
+D:\balta\StringsOperations\obj\Debug\net5.0\ref\StringsOperations.dll
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.pdb
+D:\balta\StringsOperations\obj\Debug\net5.0\StringsOperations.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.csprojAssemblyReference.cache
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.AssemblyInfoInputs.cache
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.AssemblyInfo.cs
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.csproj.CoreCompileInputs.cache
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\CalculoFibonacci.exe
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\CalculoFibonacci.deps.json
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\CalculoFibonacci.runtimeconfig.json
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\CalculoFibonacci.runtimeconfig.dev.json
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\CalculoFibonacci.dll
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\ref\CalculoFibonacci.dll
+D:\balta\CalculoFibonacci\bin\Debug\net5.0\CalculoFibonacci.pdb
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.dll
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\ref\CalculoFibonacci.dll
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.pdb
+D:\balta\CalculoFibonacci\obj\Debug\net5.0\CalculoFibonacci.genruntimeconfig.cache

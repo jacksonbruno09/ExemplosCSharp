@@ -1,0 +1,16 @@
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\OrdernacaoVetor.exe
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\OrdernacaoVetor.deps.json
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\OrdernacaoVetor.runtimeconfig.json
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\OrdernacaoVetor.runtimeconfig.dev.json
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\OrdernacaoVetor.dll
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\ref\OrdernacaoVetor.dll
+D:\balta\OrdernacaoVetor\bin\Debug\net5.0\OrdernacaoVetor.pdb
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.csprojAssemblyReference.cache
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.AssemblyInfoInputs.cache
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.AssemblyInfo.cs
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.csproj.CoreCompileInputs.cache
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.dll
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\ref\OrdernacaoVetor.dll
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.pdb
+D:\balta\OrdernacaoVetor\obj\Debug\net5.0\OrdernacaoVetor.genruntimeconfig.cache
